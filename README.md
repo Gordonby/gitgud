@@ -29,7 +29,7 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 
 ### Stretch
 
-1. Mermaid diagrams
+1. [Mermaid diagrams](https://mermaid.live/)
 
 ### Continued learning
 
