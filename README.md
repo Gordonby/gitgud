@@ -8,7 +8,7 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 
 1. GitHub account
 1. Link GitHub to the enterprise `security`
-1. Join enterprise organisations
+1. Join enterprise organisations `collaborate`
 
 ### Fundamentals
 
