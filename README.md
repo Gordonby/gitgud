@@ -25,7 +25,7 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 
 1. [Codespaces](https://github.com/features/codespaces), get coding quickly and consistently using a container in the cloud.
 1. [Copilot](https://github.com/features/copilot), use AI to code faster - especially helpful for exploring new languages
-1. Markdown
+1. [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  
 ### Stretch
 
