@@ -23,10 +23,10 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 
 ### Code
 
+1. [Codespaces](https://github.com/features/codespaces), get coding quickly and consistently using a container in the cloud.
+1. [Copilot](https://github.com/features/copilot), use AI to code faster - especially helpful for exploring new languages
 1. Markdown
-1. Codespaces
-1. Copilot
-
+ 
 ### Stretch
 
 1. [Mermaid diagrams](https://mermaid.live/)
