@@ -19,7 +19,7 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 
 ### Fun
 
-1. GitHub profile
+1. [GitHub profile page](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 ### Code
 
