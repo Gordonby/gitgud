@@ -15,7 +15,7 @@ Used as part of EiC learning @Msft, App Dev fundamentals.
 1. Repositories
 1. Git terms
 1. Branches
-1. Pull Requests
+1. [Pull Requests](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/)
 
 ### Fun
 
